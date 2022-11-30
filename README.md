@@ -3,6 +3,12 @@ Primeiro projeto landing page
 
 <img src=src/gifs/animacao.gif>
 
-## Tecnologias usadas:
+## Objetivo do projeto
+- Projeto serve apenas para desmonstrar minha evolução criando do zero uma landing page.
+
+## Principais dificuldades
+- Minha principal dificuldade foi a parte do responsivo.
+
+## Tecnologias usadas
 - HTML
 - CSS
